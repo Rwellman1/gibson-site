@@ -4,7 +4,7 @@ export default function Smallcard(props) {
 
     return(
         <div className="card-container alt-card alt-card-container-flex">
-            <img className="card-image alt-card-image" src={props.image} />
+            <img className="card-image alt-card-image" src={props.image} alt="merch "/>
             <div className="card-text-container card-text-container-alt">
                 <h3>{props.subtitle}</h3>
                 <p className="card-text-p">{props.info}</p>

@@ -43,7 +43,7 @@ export default function Navbar(){
                 <div className='max-width nav-flex'>
                     <div className="nav-flex-container-left">
                         <span onClick={() => setIsOpen(!isOpen)} class="material-symbols-outlined nav-menu">menu</span>
-                        <img  className="nav-image nav-image-desktop" src="https://images.ctfassets.net/m8onsx4mm13s/72p8qgeqA4UK7FD2MwyA19/cbc4a71ff92b788b791a53fa683dc6f4/gibson__1_.svg" />
+                        <img  className="nav-image nav-image-desktop" alt="gibson logo" src="https://images.ctfassets.net/m8onsx4mm13s/72p8qgeqA4UK7FD2MwyA19/cbc4a71ff92b788b791a53fa683dc6f4/gibson__1_.svg" />
                         <ul className="nav-large-list">
                             <NavbarGuitars 
                                 title = 'ELECTRIC'

@@ -33,6 +33,7 @@ export default function Carousel(){
                     <div className='carousel-card first-card'>
                         <img className="release-card-image" 
                             src="https://i.ytimg.com/vi/WK2R-cMvXFs/mqdefault.jpg" 
+                            alt="tumbnail for Rex Brown"
                         />
                         <div className='carousel-card-text'>
                             <h3>Rex Brown Signature Thunderbird </h3>
@@ -43,7 +44,8 @@ export default function Carousel(){
                 <SwiperSlide>
                     <div className='carousel-card second-card'>
                         <img className="release-card-image" 
-                            src="https://i.ytimg.com/vi/ATebZPucb3g/mqdefault.jpg" 
+                            src="https://i.ytimg.com/vi/ATebZPucb3g/mqdefault.jpg"
+                            alt="thumbnail for through the lens" 
                         />
                         <div className='carousel-card-text'>
                             <h3>Through the lens </h3>
@@ -54,7 +56,8 @@ export default function Carousel(){
                 <SwiperSlide>
                     <div className='carousel-card third-card'>
                         <img className="release-card-image" 
-                            src="https://i.ytimg.com/vi/R7iIvaUcdrU/mqdefault.jpg" 
+                            src="https://i.ytimg.com/vi/R7iIvaUcdrU/mqdefault.jpg"
+                            alt="thumbnail for Cat Stevens" 
                         />
                         <div className='carousel-card-text'>
                             <h3>Cat Stevens </h3>

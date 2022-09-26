@@ -8,6 +8,7 @@ export default function LargeReleaseCard(props){
             <div className='large-card '>
                 <img className="large-card-image" 
                     src={props.image} 
+                    alt="main video thumbnail"
                 />
                 <div className='large-card-text'>
                     <h3>{props.title} </h3>

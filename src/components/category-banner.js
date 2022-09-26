@@ -40,12 +40,12 @@ export default function Category(){
                   }}
             >
                 
-                <SwiperSlide><img className="guitar-image" href="#" src={lesPaul}/><p>Les Paul <strong>&gt;</strong></p></SwiperSlide>
-                <SwiperSlide><img className="guitar-image" src={SG}/><p>SG <strong>&gt;</strong></p></SwiperSlide>
-                <SwiperSlide><img className="guitar-image" src={ES}/><p>ES <strong>&gt;</strong></p></SwiperSlide>
-                <SwiperSlide><img className="guitar-image" src={acoustic}/><p>Acoustic <strong>&gt;</strong></p></SwiperSlide>
-                <SwiperSlide><img className="guitar-image" src={designer}/><p>Desginer <strong>&gt;</strong></p></SwiperSlide>
-                <SwiperSlide><img className="guitar-image" src={basses}/><p>Basses <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" href="#" src={lesPaul} alt="les paul guitar"/><p>Les Paul <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" src={SG} alt="SG guitar"/><p>SG <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" src={ES} alt="ES"/><p>ES <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" src={acoustic} alt="Acoustic guitar"/><p>Acoustic <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" src={designer} alt="designer guitar"/><p>Desginer <strong>&gt;</strong></p></SwiperSlide>
+                <SwiperSlide><img className="guitar-image" src={basses} alt="bass guitar"/><p>Basses <strong>&gt;</strong></p></SwiperSlide>
                 <div></div>
             </Swiper>
         </div>
