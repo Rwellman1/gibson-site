@@ -48,7 +48,7 @@ body{
 }
 .material-symbols-outlined {
   font-variation-settings:
-  'FILL' 0,
+  'FILL' 1,
   'wght' 300,
   'GRAD' 0,
   'opsz' 48;
@@ -755,6 +755,7 @@ HOME BANNER
     font-size: .85rem;
     cursor: pointer;
   }
+  
   .dropdown-menu{
     color: black;
   }
@@ -767,6 +768,15 @@ HOME BANNER
     font-size: .85rem;
     cursor: pointer;
     margin-right: 2em;
+  }
+  .gibson-tv-navtitle{
+    color: white;
+    font-size: .85rem;
+    cursor: pointer;
+    margin-top: 2.2em;
+  }
+  .gibson-tv-navtitle:hover{
+    text-decoration: underline;
   }
   .dropdown-title-container{
     position: relative;
@@ -1077,7 +1087,7 @@ HOME BANNER
     min-height: 100%;
   }
   .large-card-text{
-    width: 97%;
+    width: 96%;
     position: absolute;
     bottom: 0;
   }

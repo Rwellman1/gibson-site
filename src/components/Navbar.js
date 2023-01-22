@@ -148,9 +148,7 @@ export default function Navbar(){
                                 itemC5 = 'About Us'
                                 
                             />
-                            <NavbarExtras 
-                                title = 'GIBSON TV'
-                            />
+                            <h2 className="gibson-tv-navtitle">GIBSON TV</h2>
                         </ul>
                     </div>
                     <img  className="nav-image nav-image-mobile" src="https://images.ctfassets.net/m8onsx4mm13s/72p8qgeqA4UK7FD2MwyA19/cbc4a71ff92b788b791a53fa683dc6f4/gibson__1_.svg" />
