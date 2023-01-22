@@ -54,6 +54,8 @@ body{
   'opsz' 48;
   color: white;
   font-size: 1.75rem;
+  margin-right: 2em;
+
 }
 
 .nav-large-list{
@@ -99,6 +101,7 @@ body{
   margin: 0 auto;
   margin-bottom: 1.5em;
   cursor: pointer;
+  font-family: Arial, Helvetica, sans-serif;
 }
 .menu-list{
   margin-top: 5em;
@@ -135,7 +138,8 @@ HOME BANNER
 }
 .home-banner-text{
   color: white;
-  font-family: 'Trade Gothic LT Std', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-weight: 400;
   bottom: 0;
   position: absolute;
   padding: 1.5em;
@@ -213,12 +217,12 @@ HOME BANNER
   margin-top: 0;
   margin-bottom: .5em;
   font-size: 1.1rem;
-  font-family: 'Trade Gothic LT Std', sans-serif;
+  font-family: 'Pathway Gothic One', sans-serif;
 }
 .card-text-container p {
   margin-top: 0px;
   font-size: .725rem;
-  font-family: 'Trade Gothic LT Std', sans-serif; 
+  font-family: 'Pathway Gothic One', sans-serif; 
 }
 
 .alt-card{
@@ -493,7 +497,7 @@ HOME BANNER
 }
 .socials-container h3{
   font-size: 1.1rem;
-  font-family: 'Trade Gothic LT Std', sans-serif;
+  font-family: 'Pathway Gothic One', sans-serif;
 }
 /*************
     FOOTER
@@ -834,7 +838,7 @@ HOME BANNER
     font-weight: 300;
     padding: 0;
     list-style-type: none;
-    font-family: 'Trade Gothic LT Std', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .dropdown-list li{
     padding: 0;
@@ -896,7 +900,8 @@ HOME BANNER
     width: auto;
   }
   .home-banner-text h1{
-    font-size: 2.5rem;
+    font-size: 2rem;
+    font-family: Oswald,sans-serif;
   }
   .home-image-mobile{
     display: none;
