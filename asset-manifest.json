@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gibson-site/static/css/main.d6640f29.css",
+    "main.css": "/gibson-site/static/css/main.9eb36223.css",
     "main.js": "/gibson-site/static/js/main.8de2bd94.js",
     "static/js/787.5770ebf8.chunk.js": "/gibson-site/static/js/787.5770ebf8.chunk.js",
     "static/media/home-image.jpg": "/gibson-site/static/media/home-image.f4429bb4df458ca182c9.jpg",
@@ -11,12 +11,12 @@
     "static/media/designer-small.png": "/gibson-site/static/media/designer-small.4084f8977e090e69934f.png",
     "static/media/basses-small.png": "/gibson-site/static/media/basses-small.e46b57acea9fccd1444c.png",
     "index.html": "/gibson-site/index.html",
-    "main.d6640f29.css.map": "/gibson-site/static/css/main.d6640f29.css.map",
+    "main.9eb36223.css.map": "/gibson-site/static/css/main.9eb36223.css.map",
     "main.8de2bd94.js.map": "/gibson-site/static/js/main.8de2bd94.js.map",
     "787.5770ebf8.chunk.js.map": "/gibson-site/static/js/787.5770ebf8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6640f29.css",
+    "static/css/main.9eb36223.css",
     "static/js/main.8de2bd94.js"
   ]
 }
